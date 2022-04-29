@@ -2,7 +2,7 @@
  import { useEffect, useState } from "react";
 
 const habi_data=[{
-  id:'A1',
+  id:'B1',
   title:'This is adis ababa Ethiopia',
   image:'https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Judsk%C3%BD_lev%2C_Addis_Abeba.jpg/1024px-Judsk%C3%BD_lev%2C_Addis_Abeba.jpg',
   address:' Addis Ababa (Ethiopia).',
