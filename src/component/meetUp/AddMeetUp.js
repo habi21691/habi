@@ -16,7 +16,7 @@ import classes from "./AddNewMeetUp.module.css"
   const entertitle=titleinputRef.current.value
   const enteredimage=imageinputRef.current.value
   const enterdaddress=addressinputRef.current.value
-  const entereddescription =descriptioninputRef.current.value
+//   const entereddescription =descriptioninputRef.current.value
   
   const meetUpData={
       title:entertitle,
