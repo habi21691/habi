@@ -9,7 +9,7 @@ const habi_data=[{
   description:'The Lion of Judah Monument in Addis Ababa (Ethiopia).'
 },
 {
-  id:'A2',
+  id:'B2',
   title:'This is adis ababa Ethiopia',
   image:'https://upload.wikimedia.org/wikipedia/commons/6/63/Night_view_of_Meskel_Square.jpg',
   address:' Addis Ababa (Ethiopia).',
