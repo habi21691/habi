@@ -1,0 +1,48 @@
+.form{
+    padding: 1rem;
+}
+.control{
+        margin-bottom: 0.4rem;
+}
+.control label{
+    display: block;
+    margin-bottom: 0.4rem;
+    font-weight: bold;
+}
+.control input,
+.control textarea{
+   display: inline-block;
+   font: inherit;
+    margin-bottom: 0.4rem;
+    border: 3px solid #ccc;
+    height: 1rem;
+    width: 17rem;
+    padding: 6px;
+    transition: 0.5s;
+    outline: none;
+}
+ input[type=text]:focus {
+    border: 3px solid rgb(30, 141, 196);
+  }
+  input[input=textarea]:focus{
+    border: 3px solid rgb(30, 141, 196);
+  }
+  .action{
+    padding-left: 10rem;
+  }
+  .btn{
+    border: 1px solid #f8daef;
+    font: inherit;
+    cursor: pointer;
+    padding: 0.5rem 1.5rem;
+    border-radius: 4px;
+
+ color: white;
+    border: 1px solid #800048;
+    margin: 0 1rem;
+   
+    background-color: #800040;
+}
+.btn:hover{
+    background-color: #800040;
+}
